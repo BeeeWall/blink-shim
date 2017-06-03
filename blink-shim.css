@@ -1,0 +1,11 @@
+blink {
+    animation-duration: 1s;
+    animation-name: blinking;
+    animation-iteration-count: infinite;
+    animation-timing-function: steps(2, start);
+}
+@keyframes blinking {
+    75% {
+        visibility: hidden;
+    }
+}

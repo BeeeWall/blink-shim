@@ -59,9 +59,19 @@ Demo: https://porygonzrocks.github.io/blink-shim
 
 
   <details>
-    <summary><small>testing</small> stuff</summary><p>
-    ```javascript
+    <summary><small>nested</small> stuff</summary><p>
+<!-- alternative placement of p shown above -->
+
+* list
+* with
+
+ 1. nested
+ 1. items
+
+    ```java
     // including code
     ```
+ 1. blocks
+
   </p></details>
 

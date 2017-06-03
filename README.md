@@ -60,4 +60,5 @@ CSS3:
 
   </p></details>
 
-Demo: https://porygonzrocks.github.io/blink-shim
+[Demo](https://porygonzrocks.github.io/blink-shim) (Github doesn't let me use scripts here).
+<iframe src="https://porygonzrocks.github.io/blink-shim"></iframe>

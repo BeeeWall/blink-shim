@@ -57,17 +57,9 @@ CSS3:
 </details>
 Demo: https://porygonzrocks.github.io/blink-shim
 
-<details>
-  <summary>**Testing code**</summary>
-  <p>
-<!-- the above p cannot start right at the beginning of the line and is mandatory for everything else to work -->
-##*formatted* **heading** with [a](link)
-```java
-code block
-```
 
   <details>
-    <summary><small>nested</small> stuff</summary><p>
+    <summary><small>testing</small> stuff</summary><p>
 <!-- alternative placement of p shown above -->
 
 * list
@@ -82,4 +74,4 @@ code block
  1. blocks
 
   </p></details>
-</p></details>
+

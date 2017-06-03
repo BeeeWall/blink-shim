@@ -16,7 +16,6 @@ JavaScript:
 ```
   <details>
     <summary>Click to show code.</summary><p>
-<!-- alternative placement of p shown above -->
 
 ```javascript
 setInterval(function(){ 
@@ -40,7 +39,6 @@ CSS3:
 ```
   <details>
     <summary>Click to show code.</summary><p>
-<!-- alternative placement of p shown above -->
 
 ```css
 blink {
@@ -59,14 +57,3 @@ blink {
   </p></details>
 
 Demo: https://porygonzrocks.github.io/blink-shim
-
-
-  <details>
-    <summary>Click to show code.</summary><p>
-
-```javascript
-// including code
-```
-
-  </p></details>
-

@@ -68,7 +68,7 @@ Demo: https://porygonzrocks.github.io/blink-shim
  1. nested
  1. items
 
-    ```java
+    ```javascript
     // including code
     ```
  1. blocks

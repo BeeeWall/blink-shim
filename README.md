@@ -65,13 +65,11 @@ Demo: https://porygonzrocks.github.io/blink-shim
 * list
 * with
 
- 1. nested
- 1. items
+
 
     ```javascript
     // including code
     ```
- 1. blocks
 
   </p></details>
 

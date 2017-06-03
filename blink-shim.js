@@ -1,8 +1,11 @@
-setInterval(function () {
-    var i, s, tags = document.getElementsByTagName('blink');
-
-    for (i = 0; i < tags.length; ++i) {
-        s = tags[i].style;
-        s.visibility = s.visibility == 'hidden' ? 'visible' : 'hidden';
+setInterval(function(){ 
+	var blinkTags = document.getElementsByTagName('blink');
+	for (var i = 0; i < blinkTags.length; i++) {
+        blinkTags[i].style.visibility = "hidden";
     }
-}, 1000);
+	setTimeout(function(){
+		for (var i = 0; i < blinkTags.length; i++) {
+        	blinkTags[i].style.visibility = "visible";
+    	}  
+    }, 250);
+}, 750);

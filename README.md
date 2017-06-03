@@ -17,19 +17,19 @@ JavaScript:
 <details>
   <summary>Click to show code.</summary>
   <p>
-  ```javascript
-  setInterval(function(){ 
-	  var blinkTags = document.getElementsByTagName('blink');
-	  for (var i = 0; i < blinkTags.length; i++) {
-      blinkTags[i].style.visibility = "hidden";
+```javascript
+setInterval(function(){ 
+    var blinkTags = document.getElementsByTagName('blink');
+    for (var i = 0; i < blinkTags.length; i++) {
+        blinkTags[i].style.visibility = "hidden";
     }
 	setTimeout(function(){
 		for (var i = 0; i < blinkTags.length; i++) {
         	blinkTags[i].style.visibility = "visible";
     	}  
     }, 250);
-  }, 750);
-  ```
+}, 750);
+```
   </p>
 </details>
 
@@ -56,3 +56,30 @@ CSS3:
   </p>
 </details>
 Demo: https://porygonzrocks.github.io/blink-shim
+
+<details>
+  <summary>Testing code</summary>
+  <p>
+<!-- the above p cannot start right at the beginning of the line and is mandatory for everything else to work -->
+##*formatted* **heading** with [a](link)
+```java
+code block
+```
+
+  <details>
+    <summary><small>nested</small> stuff</summary><p>
+<!-- alternative placement of p shown above -->
+
+* list
+* with
+
+ 1. nested
+ 1. items
+
+    ```java
+    // including code
+    ```
+ 1. blocks
+
+  </p></details>
+</p></details>

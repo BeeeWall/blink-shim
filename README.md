@@ -65,9 +65,9 @@ Demo: https://porygonzrocks.github.io/blink-shim
 * list
 * with
 
-    ```javascript
-    // including code
-    ```
+```javascript
+// including code
+```
 
   </p></details>
 

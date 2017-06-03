@@ -62,7 +62,7 @@ Demo: https://porygonzrocks.github.io/blink-shim
     <summary><small>nested</small> stuff</summary><p>
 <!-- alternative placement of p shown above -->
 
-* list
+* 
 
 ```javascript
 // including code

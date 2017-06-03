@@ -14,9 +14,10 @@ JavaScript:
 ```html
 <script type="text/javascript" src="https://cdn.rawgit.com/PorygonZRocks/blink-shim/82cf663c/blink-shim.js"></script>
 ```
-<details>
-  <summary>Click to show code.</summary>
-  <p>
+  <details>
+    <summary>Click to show code.</summary><p>
+<!-- alternative placement of p shown above -->
+
 ```javascript
 setInterval(function(){ 
     var blinkTags = document.getElementsByTagName('blink');
@@ -30,36 +31,38 @@ setInterval(function(){
     }, 250);
 }, 750);
 ```
-  </p>
-</details>
+
+  </p></details>
 
 CSS3:
 ```html
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/PorygonZRocks/blink-shim/5486ca43/blink-shim.css" />
 ```
-<details>
-  <summary>Click to show code.</summary>
-  <p>
-  ```css
-  blink {
-    animation-duration: 1s;
-    animation-name: blinking;
-    animation-iteration-count: infinite;
-    animation-timing-function: steps(2, start);
-  }
-  @keyframes blinking {
-    75% {
-      visibility: hidden;
-    }
-  }
-  ```
-  </p>
-</details>
+  <details>
+    <summary>Click to show code.</summary><p>
+<!-- alternative placement of p shown above -->
+
+```css
+blink {
+	animation-duration: 1s;
+	animation-name: blinking;
+	animation-iteration-count: infinite;
+	animation-timing-function: steps(2, start);
+}
+@keyframes blinking {
+75% {
+		visibility: hidden;
+	}
+}
+```
+
+  </p></details>
+
 Demo: https://porygonzrocks.github.io/blink-shim
 
 
   <details>
-    <summary><small>nested</small> stuff</summary><p>
+    <summary>Click to show code.</summary><p>
 <!-- alternative placement of p shown above -->
 
 ```javascript

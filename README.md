@@ -63,7 +63,6 @@ Demo: https://porygonzrocks.github.io/blink-shim
 <!-- alternative placement of p shown above -->
 
 * list
-* with
 
 ```javascript
 // including code

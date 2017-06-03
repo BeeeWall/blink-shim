@@ -58,7 +58,7 @@ CSS3:
 Demo: https://porygonzrocks.github.io/blink-shim
 
 <details>
-  <summary>Testing code</summary>
+  <summary>**Testing code**</summary>
   <p>
 <!-- the above p cannot start right at the beginning of the line and is mandatory for everything else to work -->
 ##*formatted* **heading** with [a](link)

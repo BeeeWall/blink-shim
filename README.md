@@ -7,5 +7,5 @@ The syntax is similar to any other text tag in HTML, but this one blinks!
 <blink>This text blinks!</blink>
 ```
 Result:
-<script src="https://cdn.rawgit.com/PorygonZRocks/blink-shim/82cf663c/blink-shim.js"></script>
+<script type="text/javasccript" src="https://cdn.rawgit.com/PorygonZRocks/blink-shim/82cf663c/blink-shim.js"></script>
 <blink>This text blinks!</blink>

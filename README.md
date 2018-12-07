@@ -12,7 +12,7 @@ The syntax is similar to any other text tag in HTML, but this one blinks!
 There are two ways to use it, not sure about performance differences:
 JavaScript:
 ```html
-<script type="text/javascript" src="https://cdn.rawgit.com/PorygonZRocks/blink-shim/82cf663c/blink-shim.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/PorygonZRocks/blink-shim@82cf663c/blink-shim.js"></script>
 ```
   <details>
     <summary>Or just include the sript inline (click to show).</summary><p>
@@ -37,7 +37,7 @@ JavaScript:
 
 CSS3:
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/PorygonZRocks/blink-shim/5486ca43/blink-shim.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/PorygonZRocks/blink-shim@5486ca43/blink-shim.css" />
 ```
   <details>
     <summary>Or include the style inline (click to show).</summary><p>
